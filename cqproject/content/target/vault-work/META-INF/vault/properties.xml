@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>cqproject Package</comment>
+<entry key="createdBy">o.milind.sadgir</entry>
+<entry key="name">cqproject-content</entry>
+<entry key="created">2014-06-02T13:26:45.025+0530</entry>
+<entry key="groupId">com.cq</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">CQ Project</entry>
+<entry key="description">Maven Multimodule project for cqproject.</entry>
+<entry key="artifactId">cqproject-content</entry>
+<entry key="path">/etc/packages/CQ Project/cqproject-content.zip</entry>
+</properties>

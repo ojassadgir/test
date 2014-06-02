@@ -1,0 +1,4 @@
+com\accenture\adobe\cq\impl\filters\LoggingFilter.class
+com\accenture\adobe\cq\package-info.class
+com\accenture\adobe\cq\impl\HelloServiceImpl.class
+com\accenture\adobe\cq\HelloService.class
